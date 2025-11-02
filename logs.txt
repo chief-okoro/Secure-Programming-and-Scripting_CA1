@@ -1,0 +1,18 @@
+[2025-10-14 10:23:45] INFO: Application started successfully
+[2025-10-14 10:23:46] DEBUG: Loading configuration from config.json
+[2025-10-14 10:23:47] INFO: Database connection established
+[2025-10-14 10:24:01] WARNING: High memory usage detected (85%)
+[2025-10-14 10:24:15] ERROR: Failed to connect to external API - timeout after 30s
+[2025-10-14 10:24:20] INFO: Retrying API connection (attempt 1/3)
+[2025-10-14 10:24:35] ERROR: Connection failed again - network unreachable
+[2025-10-14 10:25:00] CRITICAL: Database connection lost - attempting reconnection
+[2025-10-14 10:25:05] INFO: Database reconnection successful
+[2025-10-14 10:26:12] ERROR: User authentication failed for user 'admin' - invalid credentials
+This is a malformed log entry without proper formatting
+[2025-10-14 10:27:30] FATAL: Out of memory exception - process terminated
+[2025-10-14 10:28:00] INFO: Application restart initiated
+Another malformed entry here
+[2025-10-14 10:28:15] DEBUG: Loading modules...
+[2025-10-14 10:28:20] Exception: NullPointerException at line 245 in module auth.py
+[2025-10-14 10:29:00] INFO: System health check passed
+[2025-10-14 10:30:00] ERROR: Disk space low - only 5% remaining
